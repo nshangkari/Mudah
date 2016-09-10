@@ -1,1 +1,4 @@
-Welcome to the first Mobile app project Mudah
+ Declare var x;
+ { 
+
+}
