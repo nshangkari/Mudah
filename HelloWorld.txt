@@ -1,4 +1,4 @@
  Declare var x;
  { 
-
+hello world
 }
